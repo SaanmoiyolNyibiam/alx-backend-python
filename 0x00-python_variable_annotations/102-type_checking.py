@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# This is a module that defines a zoom array function
+"""This is a module that defines a zoom array function"""
 from typing import List, Tuple
 
 
